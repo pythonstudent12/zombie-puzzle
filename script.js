@@ -1,4 +1,4 @@
-/* Индекс слайда по умолчанию */
+//Зомби для githubpages
  
 var slides = document.getElementsByClassName("item");
 slides[0].style.display = "none";
